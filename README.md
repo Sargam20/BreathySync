@@ -4,8 +4,8 @@
 
 ### *Your AI-powered companion for managing asthma, tracking lung health, and breathing easier every day.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue?style=for-the-badge&logo=vercel)](https://github.com/Sargam20/BreatheSync)
-[![Backend API](https://img.shields.io/badge/Backend%20API-Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://github.com/Sargam20/BreatheSync)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue?style=for-the-badge&logo=vercel)](https://github.com/Sargam20/BreathySync)
+[![Backend API](https://img.shields.io/badge/Backend%20API-Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://github.com/Sargam20/BreathySync)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Made with FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
@@ -22,16 +22,16 @@
     <td align="center"><b>🎙️ AI Voice Check</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Sargam20/BreatheSync/main/docs/screenshot_dashboard.png" alt="Dashboard" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/Sargam20/BreatheSync/main/docs/screenshot_voice.png" alt="Voice Check" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Sargam20/BreathySync/main/docs/screenshot_dashboard.png" alt="Dashboard" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Sargam20/BreathySync/main/docs/screenshot_voice.png" alt="Voice Check" width="100%"/></td>
   </tr>
   <tr>
     <td align="center"><b>🗺️ Environmental AQI Map</b></td>
     <td align="center"><b>🏋️ Lung Gym</b></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Sargam20/BreatheSync/main/docs/screenshot_environment.png" alt="Environment Map" width="100%"/></td>
-    <td><img src="https://raw.githubusercontent.com/Sargam20/BreatheSync/main/docs/screenshot_lung_gym.png" alt="Lung Gym" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Sargam20/BreathySync/main/docs/screenshot_environment.png" alt="Environment Map" width="100%"/></td>
+    <td><img src="https://raw.githubusercontent.com/Sargam20/BreathySync/main/docs/screenshot_lung_gym.png" alt="Lung Gym" width="100%"/></td>
   </tr>
 </table>
 
@@ -108,7 +108,7 @@ Guided breathing exercises and the microphone-controlled **Dragon Breather** gam
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sargam20/BreatheSync.git
+git clone https://github.com/Sargam20/BreathySync.git
 cd BreatheSync
 ```
 
